@@ -27,9 +27,9 @@ SOLUTION
 │    │       ├── cards
 │    │       │     ├── Card.css
 │    │       │     └── Card.js
-│    │       ├── header
-│    │       │     ├── Header.css
-│    │       │     └── Header.js
+│    │       ├─
+│    │       │     
+│    │       │     
 │    │       └── navbar
 │    │             ├── Navbar.css
 │    │             └── Navbar.js
