@@ -7,6 +7,8 @@
 
 Project aims to create a tour places app.
 
+- Live Site URL: [Click here](https://alpsabre.github.io/tour-places/)
+
 ## Problem Statement
 
 - We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
