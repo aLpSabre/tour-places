@@ -1,0 +1,45 @@
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 !important;
+}
+ul li {
+  padding: 20px;
+}
+
+
+ul li a{
+text-decoration: none;
+color: gray;
+font-size: 1.5rem;
+text-transform: uppercase;
+}
+ul li:hover{
+  background-color: cyan;
+  cursor: pointer;
+}
+
+ul li a:hover{
+  color: gray;
+}
+
+@media (max-width:996px) {
+
+  ul li {
+    padding: 15px;
+  }
+  ul li a{
+
+    font-size: 1rem;
+    }
+  
+}
