@@ -7,8 +7,8 @@ function App() {
   return (
     <div >
       <Header/>
-      <h2 className="text-center p-3 text-secondary">Popular Tour Places</h2>
-      <div className="container-fluid row justify-content-center align-items-center mx-auto gap-5 p-4">
+      <h2 className="text-center p-3 ">Popular Tour Places</h2>
+      <div className="container-fluid row justify-content-evenly align-items-center mx-auto gap-4 p-4 flex-wrap">
        {data.map(data =>{
         return(<Cards key={data.id} title={data.title} desc={data.desc} image={data.image} />)
        }) }

@@ -1,6 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Hubballi&display=swap");
+
 body {
-  background-color: aqua !important;
+
+  font-family: "Amatic SC", cursive !important;
+  background-color: #ace0f9 !important;
   min-width: 100%;
   min-height: 100vh;
+  font-size: 20px !important;
 }
+h2{
+  font-size: 50px !important;
+  font-weight: 800 !important ;
+  color:  #171b20;
+}
+p {
+  font-family: "Hubballi", cursive !important;
+}
+h5{
+  font-size: 26px !important;
 
+}

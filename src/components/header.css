@@ -3,6 +3,8 @@ nav{
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  background-color: #171b20;
+  color: white;
 }
 ul {
   list-style: none;
@@ -19,17 +21,17 @@ ul li {
 
 ul li a{
 text-decoration: none;
-color: gray;
-font-size: 1.5rem;
+color: white;
+font-size: 2rem;
 text-transform: uppercase;
 }
 ul li:hover{
-  background-color: cyan;
+  background-color: #ace0f9;
   cursor: pointer;
 }
 
 ul li a:hover{
-  color: gray;
+  color: white;
 }
 
 @media (max-width:996px) {
@@ -39,7 +41,7 @@ ul li a:hover{
   }
   ul li a{
 
-    font-size: 1rem;
+    font-size: 1.5rem;
     }
   
 }

@@ -1,7 +1,7 @@
 import "./header.css"
 function Header() {
   return (
-    <header class="container-fluid bg-dark ">
+    <header class="container-fluid p-0">
       <nav>
         <ul className="p-0">
           <li><a href="#">About Us</a></li>
